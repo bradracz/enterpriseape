@@ -1,24 +1,30 @@
+ENTERPRISE APE
+==============
 
-     ,-----.,--.                  ,--. ,---.   ,--.,------.  ,------.
-    '  .--./|  | ,---. ,--.,--. ,-|  || o   \  |  ||  .-.  \ |  .---'
-    |  |    |  || .-. ||  ||  |' .-. |`..'  |  |  ||  |  \  :|  `--, 
-    '  '--'\|  |' '-' ''  ''  '\ `-' | .'  /   |  ||  '--'  /|  `---.
-     `-----'`--' `---'  `----'  `---'  `--'    `--'`-------' `------'
-    ----------------------------------------------------------------- 
+POWERFUL SOFTWARE
+-----------------
 
+### Welcome to the repository
 
-Welcome to your Rails project on Cloud9 IDE!
+Feel free to access the [my blog](http://bradthenomad.blogspot.com).
 
-To get started, just do the following:
+> ## Atque haec coniunctio confusioque virtutum
+>
+>Propter nos enim illam, non propter eam nosmet ipsos diligimus. Non igitur potestis voluptate omnia dirigentes aut tueri aut retinere virtutem. 
+>
+>Et nemo nimium beatus est; Duo Reges: constructio i*nterrete*
 
-1. Run the project with the "Run Project" button in the menu bar on top of the IDE.
-2. Preview your new app by clicking on the URL that appears in the Run panel below (https://enterpriseape-bradesign.c9users.io/).
+Et nemo nimium beatus est; Duo Reges: constructio **interrete**
 
-Happy coding!
-The Cloud9 IDE team
+### Crazy good software
 
+* Rapid Development
++ tested
+- 24/7 support
 
-## Support & Documentation
+### Reasons to choose us
+1. Price
+2. Performance
+3. Precision
 
-Visit http://docs.c9.io for support, or to learn more about using Cloud9 IDE. 
-To watch some training videos, visit http://www.youtube.com/user/c9ide
+This is what the code will look like `puts 'Hello world'`
