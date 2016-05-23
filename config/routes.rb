@@ -1,4 +1,8 @@
-Rails.application.routes.draw do
+Rails.application.routes.draw do 
+  resources :companies do
+    collection { post :import }
+  end
+    
   devise_for :users
   get 'welcome/index'
 
@@ -14,4 +18,4 @@ Rails.application.routes.draw do
 
   resources :invoices
     root to: 'welcome#index'
-end
+  end
